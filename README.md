@@ -21,10 +21,10 @@
 
 Software Engineering student building a career path in **Cloud Native DevOps and Site Reliability Engineering**. Focused on infrastructure automation, container orchestration, and building systems that stay up.
 
-- 🎯 Working toward: reliable deployments, observability, and infrastructure-as-code
-- 🧱 Currently strengthening: Docker, Kubernetes, CI/CD pipelines, AWS, Terraform
-- 📈 Interested in: system reliability, monitoring/alerting, incident response practices
-- 🐧 Comfortable with Linux administration, shell scripting, and Git workflows
+-  Working toward: reliable deployments, observability, and infrastructure-as-code
+-  Currently strengthening: Docker, Kubernetes, CI/CD pipelines, AWS, Terraform
+-  Interested in: system reliability, monitoring/alerting, incident response practices
+-  Comfortable with Linux administration, shell scripting, and Git workflows
 
 <br/>
 
