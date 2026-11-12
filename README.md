@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div align="center">
 
@@ -39,19 +39,6 @@ Software Engineering student building a career path in **Cloud Native DevOps and
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-<br/>
-
-## GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuhammadNaeemDevOps&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaeemDevOps&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNaeemDevOps&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
